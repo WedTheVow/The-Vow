@@ -3,10 +3,10 @@
 A fresh, airy wedding studio website inspired by spring fields, alpine air, and open skies.
 
 ## Design Direction
-- **Mood:** Fresh Editorial / Alpine Romance
-- **Palette:** Deep forest green, sage, soft white, mist
-- **Typography:** Fraunces (display) + Inter (body)
-- **Feel:** Open, airy, elegant — not heavy luxury
+- Mood: Fresh Editorial / Alpine Romance
+- Palette: Deep forest green, sage, soft white, mist
+- Typography: Fraunces (display) + Inter (body)
+- Feel: Open, airy, elegant — not heavy luxury
 
 ## Tech Stack
 - HTML5
@@ -15,6 +15,13 @@ A fresh, airy wedding studio website inspired by spring fields, alpine air, and 
 - Google Fonts
 
 ## Getting Started
-Just open `index.html` in a browser — no build step required.
+Just open index.html in a browser — no build step required.
 
 ## Project Structure
+
+    the-vow/
+    ├── index.html
+    ├── css/style.css
+    ├── js/main.js
+    ├── assets/images/
+    └── README.md
